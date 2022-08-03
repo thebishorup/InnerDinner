@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Api\\InnerDinner.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Api\\InnerDinner.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Api\\InnerDinner.Api.csproj",
+        "projectName": "InnerDinner.Api",
+        "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Api\\InnerDinner.Api.csproj",
+        "packagesPath": "C:\\Users\\bisho\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packages.nuget.org/v1/FeedService.svc/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj": {
+                "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj"
+              },
+              "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj": {
+                "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj"
+              },
+              "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Infrastructure\\InnerDinner.Infrastructure.csproj": {
+                "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Infrastructure\\InnerDinner.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj",
+        "projectName": "InnerDinner.Application",
+        "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj",
+        "packagesPath": "C:\\Users\\bisho\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packages.nuget.org/v1/FeedService.svc/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj": {
+                "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj",
+        "projectName": "InnerDinner.Contracts",
+        "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj",
+        "packagesPath": "C:\\Users\\bisho\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packages.nuget.org/v1/FeedService.svc/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj",
+        "projectName": "InnerDinner.Domain",
+        "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj",
+        "packagesPath": "C:\\Users\\bisho\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packages.nuget.org/v1/FeedService.svc/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Infrastructure\\InnerDinner.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Infrastructure\\InnerDinner.Infrastructure.csproj",
+        "projectName": "InnerDinner.Infrastructure",
+        "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Infrastructure\\InnerDinner.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\bisho\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packages.nuget.org/v1/FeedService.svc/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj": {
+                "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

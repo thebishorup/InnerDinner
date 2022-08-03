@@ -1,0 +1,12 @@
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\bin\Debug\net6.0\InnerDinner.Domain.deps.json
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\bin\Debug\net6.0\InnerDinner.Domain.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\bin\Debug\net6.0\InnerDinner.Domain.pdb
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\obj\Debug\net6.0\InnerDinner.Domain.csproj.AssemblyReference.cache
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\obj\Debug\net6.0\InnerDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\obj\Debug\net6.0\InnerDinner.Domain.AssemblyInfoInputs.cache
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\obj\Debug\net6.0\InnerDinner.Domain.AssemblyInfo.cs
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\obj\Debug\net6.0\InnerDinner.Domain.csproj.CoreCompileInputs.cache
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\obj\Debug\net6.0\InnerDinner.Domain.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\obj\Debug\net6.0\refint\InnerDinner.Domain.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\obj\Debug\net6.0\InnerDinner.Domain.pdb
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Domain\obj\Debug\net6.0\ref\InnerDinner.Domain.dll

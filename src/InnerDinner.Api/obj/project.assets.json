@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "InnerDinner.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "InnerDinner.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InnerDinner.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InnerDinner.Application.dll": {}
+        }
+      },
+      "InnerDinner.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/InnerDinner.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InnerDinner.Contracts.dll": {}
+        }
+      },
+      "InnerDinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/InnerDinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InnerDinner.Domain.dll": {}
+        }
+      },
+      "InnerDinner.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "InnerDinner.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InnerDinner.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InnerDinner.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InnerDinner.Application/1.0.0": {
+      "type": "project",
+      "path": "../InnerDinner.Application/InnerDinner.Application.csproj",
+      "msbuildProject": "../InnerDinner.Application/InnerDinner.Application.csproj"
+    },
+    "InnerDinner.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../InnerDinner.Contracts/InnerDinner.Contracts.csproj",
+      "msbuildProject": "../InnerDinner.Contracts/InnerDinner.Contracts.csproj"
+    },
+    "InnerDinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../InnerDinner.Domain/InnerDinner.Domain.csproj",
+      "msbuildProject": "../InnerDinner.Domain/InnerDinner.Domain.csproj"
+    },
+    "InnerDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../InnerDinner.Infrastructure/InnerDinner.Infrastructure.csproj",
+      "msbuildProject": "../InnerDinner.Infrastructure/InnerDinner.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "InnerDinner.Application >= 1.0.0",
+      "InnerDinner.Contracts >= 1.0.0",
+      "InnerDinner.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bisho\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Api\\InnerDinner.Api.csproj",
+      "projectName": "InnerDinner.Api",
+      "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Api\\InnerDinner.Api.csproj",
+      "packagesPath": "C:\\Users\\bisho\\.nuget\\packages\\",
+      "outputPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\bisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://packages.nuget.org/v1/FeedService.svc/": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj": {
+              "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj"
+            },
+            "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj": {
+              "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj"
+            },
+            "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Infrastructure\\InnerDinner.Infrastructure.csproj": {
+              "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Infrastructure\\InnerDinner.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

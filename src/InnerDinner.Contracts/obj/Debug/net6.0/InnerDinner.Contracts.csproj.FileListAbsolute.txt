@@ -1,0 +1,12 @@
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\bin\Debug\net6.0\InnerDinner.Contracts.deps.json
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\bin\Debug\net6.0\InnerDinner.Contracts.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\bin\Debug\net6.0\InnerDinner.Contracts.pdb
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\obj\Debug\net6.0\InnerDinner.Contracts.csproj.AssemblyReference.cache
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\obj\Debug\net6.0\InnerDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\obj\Debug\net6.0\InnerDinner.Contracts.AssemblyInfoInputs.cache
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\obj\Debug\net6.0\InnerDinner.Contracts.AssemblyInfo.cs
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\obj\Debug\net6.0\InnerDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\obj\Debug\net6.0\InnerDinner.Contracts.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\obj\Debug\net6.0\refint\InnerDinner.Contracts.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\obj\Debug\net6.0\InnerDinner.Contracts.pdb
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Contracts\obj\Debug\net6.0\ref\InnerDinner.Contracts.dll

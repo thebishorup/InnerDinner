@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InnerDinner.Application/1.0.0": {
+        "dependencies": {
+          "InnerDinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InnerDinner.Application.dll": {}
+        }
+      },
+      "InnerDinner.Domain/1.0.0": {
+        "runtime": {
+          "InnerDinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InnerDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InnerDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
