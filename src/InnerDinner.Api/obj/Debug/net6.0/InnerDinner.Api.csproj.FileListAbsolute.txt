@@ -28,3 +28,9 @@ D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\I
 D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\InnerDinner.Application.pdb
 D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\InnerDinner.Infrastructure.pdb
 D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\InnerDinner.Domain.pdb
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
