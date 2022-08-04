@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hiDhsMPxwSG3Ho6FwGHRz+xyHRqxOGRjjb8+vURuuUy5hyhaJ2RHleIqr0sNVKQXHWF8Q4/5vbPTmhivz0pU/g==",
+  "dgSpecHash": "CdCX5s3FQyNFt8o4AxguBIO0+IXkl1vXbRXspjmv3i5D0LnKMAImSgIngr6xNMilMAM/JBX8McOCWjnALbcDaA==",
   "success": true,
   "projectFilePath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bisho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,9 @@
+@url = https://localhost:7109
+
+POST {{url}}/api/auth/login
+Content-Type: application/json
+
+{
+    "email": "email@innerdinner.com",
+    "password": "Password1!"
+}
