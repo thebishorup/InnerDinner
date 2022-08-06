@@ -1,6 +1,8 @@
-using InnerDinner.Application.Common.Interfaces;
+using InnerDinner.Application.Common.Interfaces.Authentication;
+using InnerDinner.Application.Common.Interfaces.Persistance;
 using InnerDinner.Application.Common.Services;
 using InnerDinner.Infrastructure.Authentication;
+using InnerDinner.Infrastructure.Persistance;
 using InnerDinner.Infrastructure.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -17,6 +19,9 @@ public static class Extensions
 
         services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
         services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
+
+        services.AddScoped<IUserRepository, UserRepository>();
+
         return services;
     }
 }
