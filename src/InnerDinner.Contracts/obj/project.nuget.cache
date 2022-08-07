@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r863wGewhoBmo5ej5hIVciXnhxEf5fKunK0idgSS0HiwB/m6AVl0+TZQIYMVbnMHIKLi+aQdV1OPT+GV+llUYw==",
+  "dgSpecHash": "jKrgweByM1sJDbZzIgMNCmbLbyvLzbc+7SzNxTGbud/4uMo0EWtVeAtsGb8XB6bSLVMl+2AuU61J6FfO0+63Zg==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj",
+  "projectFilePath": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
