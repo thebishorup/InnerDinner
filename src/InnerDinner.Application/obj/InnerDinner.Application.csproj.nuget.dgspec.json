@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj": {}
+    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj": {}
   },
   "projects": {
-    "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj": {
+    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj",
+        "projectUniqueName": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj",
         "projectName": "InnerDinner.Application",
-        "projectPath": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj",
+        "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj",
         "packagesPath": "C:\\Users\\bisho\\.nuget\\packages\\",
-        "outputPath": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\obj\\",
+        "outputPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj": {
-                "projectPath": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj"
+              "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj": {
+                "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj": {
+    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj",
+        "projectUniqueName": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj",
         "projectName": "InnerDinner.Domain",
-        "projectPath": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj",
+        "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\InnerDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\bisho\\.nuget\\packages\\",
-        "outputPath": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\obj\\",
+        "outputPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
