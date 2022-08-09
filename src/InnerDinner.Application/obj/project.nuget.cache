@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CdCX5s3FQyNFt8o4AxguBIO0+IXkl1vXbRXspjmv3i5D0LnKMAImSgIngr6xNMilMAM/JBX8McOCWjnALbcDaA==",
+  "dgSpecHash": "+ag4gHrC+/4LsnG6WKlM+2joKCOPTdVatvbL7ohvX3TEq9ZlWMIu4YgXn3WAD1pxN4IblC0Ut+Ul+DqL9NCcjQ==",
   "success": true,
   "projectFilePath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bisho\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\bisho\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\bisho\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\bisho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []

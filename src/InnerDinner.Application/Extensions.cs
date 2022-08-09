@@ -1,4 +1,4 @@
-using InnerDinner.Application.Services.Authentication;
+using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace InnerDinner.Application;
@@ -7,8 +7,7 @@ public static class Extensions
 {
     public static IServiceCollection AddApplication(this IServiceCollection services)
     {
-        services.AddScoped<IAuthenticationService, AuthenticationService>();
-
+        services.AddMediatR(typeof(Extensions).Assembly);
         return services;
     }
 }

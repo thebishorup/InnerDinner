@@ -1,6 +1,5 @@
 using InnerDinner.Api.Errors;
 using InnerDinner.Application;
-using InnerDinner.Application.Services.Authentication;
 using InnerDinner.Infrastructure;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 

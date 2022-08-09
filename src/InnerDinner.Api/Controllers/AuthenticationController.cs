@@ -1,5 +1,7 @@
-using InnerDinner.Application.Services.Authentication;
+using InnerDinner.Application.Authentication.Commands.Register;
+using InnerDinner.Application.Authentication.Queries;
 using InnerDinner.Contracts.Authentication;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 namespace InnerDinner.Api.Controllers;
@@ -8,22 +10,22 @@ namespace InnerDinner.Api.Controllers;
 [Route("api/auth")]
 public class ApplicationController : ControllerBase
 {
-    private readonly IAuthenticationService _authService;
+    private readonly IMediator _mediator;
 
-    public ApplicationController(IAuthenticationService authService)
+    public ApplicationController(IMediator mediator)
     {
-        _authService = authService;
+        _mediator = mediator;
     }
 
     [HttpPost("register")]
-    public IActionResult Register(RegisterRequest request)
+    public async Task<IActionResult> Register(RegisterRequest request)
     {
-        var authResult = _authService.Register(
-            request.FirstName,
+        var command = new RegisterCommand(request.FirstName,
             request.LastName,
             request.Email,
-            request.Password
-        );
+            request.Password);
+
+        var authResult = await _mediator.Send(command);
 
         var responseResult = new AuthenticationResponse(
             authResult.User.Id,
@@ -37,12 +39,11 @@ public class ApplicationController : ControllerBase
     }
 
     [HttpPost("login")]
-    public IActionResult Login(LoginRequest request)
+    public async Task<IActionResult> Login(LoginRequest request)
     {
-        var authResult = _authService.Login(
-            request.Email,
-            request.Password
-        );
+        var query = new LoginQuery(request.Email, request.Password);
+
+        var authResult = await _mediator.Send(query);
 
         var responseResult = new AuthenticationResponse(
             authResult.User.Id,
