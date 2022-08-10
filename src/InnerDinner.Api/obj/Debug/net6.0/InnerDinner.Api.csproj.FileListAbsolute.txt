@@ -37,3 +37,6 @@ D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\M
 D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\MediatR.dll
 D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\MediatR.Contracts.dll
 D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\Mapster.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\Mapster.Core.dll
+D:\Learning\CleanArchitecture\InnerDinner\src\InnerDinner.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
