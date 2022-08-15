@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj": {}
+    "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj": {
+    "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj",
+        "projectUniqueName": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj",
         "projectName": "InnerDinner.Contracts",
-        "projectPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj",
+        "projectPath": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\InnerDinner.Contracts.csproj",
         "packagesPath": "C:\\Users\\bisho\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\obj\\",
+        "outputPath": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bisho\\AppData\\Roaming\\NuGet\\NuGet.Config",

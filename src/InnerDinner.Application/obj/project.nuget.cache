@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ag4gHrC+/4LsnG6WKlM+2joKCOPTdVatvbL7ohvX3TEq9ZlWMIu4YgXn3WAD1pxN4IblC0Ut+Ul+DqL9NCcjQ==",
+  "dgSpecHash": "D0p8rzRkLQHY8vcPfyenHnDuk0G+4kIPv/Z///vYZMGwY9b6dHY8bMd6FhdS6HqERzK6CaUxn/IJtpzBBmcAQA==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj",
+  "projectFilePath": "d:\\Learning\\CleanArchitecture\\InnerDinner\\src\\InnerDinner.Application\\InnerDinner.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bisho\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\bisho\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
